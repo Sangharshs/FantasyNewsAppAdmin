@@ -3,10 +3,32 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/drawable-v24/rounded_bg.xml" value="0.1275" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/drawable-v24/rounded_border.xml" value="0.1215" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_baseline_camera_alt_24.xml" value="0.1275" />
         <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/login_shape.xml" value="0.1275" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/red_round.xml" value="0.1275" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/round_shimmer.xml" value="0.1275" />
         <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/rounded_btn.xml" value="0.1275" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_add_update_fantasy_apps.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_add_update_games_categories.xml" value="0.17447916666666666" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_add_update_matches.xml" value="0.13854166666666667" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_add_update_matches2.xml" value="0.2345360824742268" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_add_update_sliders.xml" value="0.4058252427184466" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_games_categories.xml" value="0.18854166666666666" />
         <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_login.xml" value="0.2" />
-        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.10104166666666667" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_manage_fantasy_apps.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_manage_notification.xml" value="0.17604166666666668" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_manage_promotional_banners.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_manage_sliders.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_matches.xml" value="0.15260416666666668" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_news.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_select_players.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_update_add_news.xml" value="0.17447916666666666" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/item_dashboard.xml" value="0.22" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/item_match.xml" value="0.15260416666666668" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/match_item.xml" value="0.14270833333333333" />
       </map>
     </option>
   </component>

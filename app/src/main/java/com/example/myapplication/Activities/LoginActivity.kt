@@ -18,7 +18,8 @@ class LoginActivity : AppCompatActivity() {
         val view = binding.root
         setContentView(view)
 
-        binding.btNextbtn.setOnClickListener(View.OnClickListener {
+
+        binding.btnLogin.setOnClickListener(View.OnClickListener {
             val intent = Intent(this@LoginActivity, MainActivity::class.java)
             startActivity(intent)
         })

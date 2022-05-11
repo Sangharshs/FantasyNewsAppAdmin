@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.myapplication">
-    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -10,13 +12,51 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication">
         <activity
+            android:name=".Activities.CreateTeamPreview.SelectPlayersActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.ManageNotification.ManageNotificationActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.ManageFantasyApps.ManageFantasyAppsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.ManageFantasyApps.AddUpdateFantasyAppsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.ManageSliders.AddUpdateSlidersActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.ManageSliders.ManageSlidersActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.ManagePromotinalBanners.ManagePromotionalBannersActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.ManageNews.NewsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.ManageNews.UpdateAddNewsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.ManageGames.GamesCategoriesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.ManageMatches.AddUpdateMatchesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.ManageGames.AddUpdateGamesCategoriesActivity"
+            android:exported="false" />
+        <activity
             android:name=".Activities.MainActivity"
-            android:exported="true">
-
-        </activity>
-        <activity android:name=".Activities.LoginActivity"
-            android:theme="@style/Theme.Design.Light.NoActionBar"
-            android:exported="true">
+            android:exported="true" />
+        <activity
+            android:name=".Activities.ManageMatches.MatchesActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Activities.LoginActivity"
+            android:exported="true"
+            android:theme="@style/Theme.Design.Light.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
